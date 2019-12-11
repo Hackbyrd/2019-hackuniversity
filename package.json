@@ -33,7 +33,7 @@
     "foreman": "3.0.1",
     "helmet": "3.15.0",
     "heroku-ssl-redirect": "0.0.4",
-    "lodash": "4.17.11",
+    "lodash": "4.17.13",
     "throng": "4.0.0"
   },
   "devDependencies": {
