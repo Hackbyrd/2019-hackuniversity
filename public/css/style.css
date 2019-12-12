@@ -45,7 +45,7 @@ html, body {
 
 .vertical-line {
 	width: 1px;
-	height: 50vh;
+	height: 16vh;
 }
 
 #hero-vertical-line {
@@ -99,7 +99,7 @@ strong {
 
 sup {
 	font-family: muli;
-	font-size: .8rem;	
+	font-size: .8rem;
 }
 
 .hepta-type {
@@ -202,20 +202,20 @@ a.share-link {
 	.button {
 		padding: 0 .5rem;
 	}
-	
+
 	.share-button {
 		display: none;
-	}	
-	
+	}
+
 	.stat-panel {
 		height: 50vh;
 		min-height: 400px;
 	}
-	
+
 	.stat-img {
 		width: 70%;
 	}
-	
+
 	.bottom-bar {
 		bottom: 0rem;
 		width: 100vw;
@@ -227,20 +227,20 @@ a.share-link {
 	.big-header {
 		font-size: 4rem !important;
 	}
-	
+
 	.mobile-share-button {
 		display: none;
 	}
-	
+
 	.stat-panel {
 		height: 100vh;
 		min-height: 600px;
 	}
-	
+
 	.stat-img {
 		width: 80%;
 	}
-	
+
 	.bottom-bar {
 		bottom: 2rem;
 		right: 2rem;
